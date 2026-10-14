@@ -119,9 +119,9 @@ The dashboard provides a starting point for further investigation into betting b
 - Data visualisation
 - Comparative analysis across categories
 - Communicating findings and recognising analytical limitations
-
+  
 ## Project Files
 
-- **Source Dataset:** The dataset used for the analysis.
-- **Pivot Table:** Excel PivotTables used to summarise the data.
-- **Dashboard:** Interactive Excel dashboard presenting the analysis.
+- **Source Data (`Sheet1`):** Contains the dataset used for the analysis.
+- **Pivot Table:** Contains the PivotTable summaries used to compare betting activity and addiction scores.
+- **Dashboard:** Presents the key indicators, category comparisons, and interactive slicers.
